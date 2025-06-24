@@ -2298,6 +2298,9 @@ body.mega-menu-open .header-menu-toggle .menu-text {
     border-color: #158a38;
     color: #fff;
   }
+  .business-title h2 {
+    margin: 0 0 12px 0;
+  }
 }
   
   
